@@ -60,6 +60,13 @@ section h2 {
     margin-bottom: 15px;
 }
 
+.foto-perfil {
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 60px;
+
+}
+
 #destaque{
     text-align: center;
 }
